@@ -11,13 +11,9 @@
 set nocompatible
 " set runtime path 
 set runtimepath^=~/.vim/plugged
-" windows
-" set runtimepath^=plugged
 "==========================================
 " Plugin Settings 
 "==========================================
-" windows
-" call plug#begin('plugged')
 call plug#begin('~/.vim/plugged')
 " File fuzzy query
 Plug 'kien/ctrlp.vim'
