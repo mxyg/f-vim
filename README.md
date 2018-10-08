@@ -1,6 +1,8 @@
 # f-vim
 my private vim config
 ## Install
+install plug.vim
+install git
 ---
 ### MAC
 1.install f-vim
