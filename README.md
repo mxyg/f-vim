@@ -2,7 +2,7 @@
 my private vim config
 ## Install
 ```
-1.install plug.vim
+1.install [plug.vim](https://github.com/mxyg/vim-plug)
 ```
 ```
 2.install git
