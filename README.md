@@ -2,12 +2,14 @@
 my private vim config
 ## Install
 ```
-1.install [plug.vim](https://github.com/mxyg/vim-plug)
+1.install plug.vim
 ```
 ```
 2.install git
 ```
 ---
+### Windows
+[plug.vim](https://github.com/mxyg/vim-plug)下载到Vim\vimfiles\autoload里
 ### MAC
 1.install f-vim
 ```
