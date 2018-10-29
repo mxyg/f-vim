@@ -30,6 +30,10 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 ```
 brew install lua
 ```
+4.#安装字体
+```
+brew tap caskroom/fonts && brew cask install font-source-code-pro
+```
  ## Config
  ---
  ### install vim plug
